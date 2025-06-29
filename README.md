@@ -1,6 +1,6 @@
 # 📚 Student Management System
 
-A GUI-based Python application for managing university student records, built using **Tkinter**. This system enables users to **add**, **search**, **update**, **delete**, and **view** detailed information about students including **courses**, **grades**, **credit hours**, and **CGPA**.
+A GUI-based Python application for managing university student records, built using **Tkinter**. This system enables users to **add**, **search**, **update**, **delete**, and **view** detailed information about students including **courses**, **grades**, **credit hours**, and **CGPA** built as a way to test and apply my understanding of data structures in Python while creating a practical tool for academic use.
 
 ---
 
