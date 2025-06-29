@@ -1,0 +1,220 @@
+[
+    {
+        "id": "S001",
+        "name": "Ahmed Sultan",
+        "age": 18,
+        "CMS_ID": 518505,
+        "courses": {
+            "Semester 1": {
+                "Engineering Drawing": {
+                    "Grade": "A",
+                    "Credit_Hours": "0+2"
+                },
+                "Ideology and Constitution of Pakistan": {
+                    "Grade": "D+",
+                    "Credit_Hours": "2+0"
+                },
+                "Engineering Statics": {
+                    "Grade": "B+",
+                    "Credit_Hours": "2+0"
+                },
+                "Calculus and Analytical Geometry": {
+                    "Grade": "A",
+                    "Credit_Hours": "3+0"
+                },
+                "Occupational Health and Safety": {
+                    "Grade": "C+",
+                    "Credit_Hours": "1+0"
+                },
+                "Functional English": {
+                    "Grade": "B+",
+                    "Credit_Hours": "3+0"
+                },
+                "Application of ICT": {
+                    "Grade": "B+",
+                    "Credit_Hours": "2+1"
+                }
+            },
+            "Semester 2": {
+                "Fundamentals of Programming": {
+                    "Grade": "A",
+                    "Credit_Hours": "2+1"
+                },
+                "Applied Physics": {
+                    "Grade": "A",
+                    "Credit_Hours": "2+1"
+                },
+                "Differential Equations": {
+                    "Grade": "B+",
+                    "Credit_Hours": "3+0"
+                },
+                "Islamic Studies": {
+                    "Grade": "B+",
+                    "Credit_Hours": "2+0"
+                },
+                "Professional Ethics": {
+                    "Grade": "B",
+                    "Credit_Hours": "2+0"
+                },
+                "Electric Circuit Analysis": {
+                    "Grade": "A",
+                    "Credit_Hours": "3+1"
+                },
+                "Workshop Practice": {
+                    "Grade": "B",
+                    "Credit_Hours": "0+1"
+                }
+            }
+        }
+    },
+    {
+        "id": "S002",
+        "name": "Muhammad Ibrahim",
+        "age": 18,
+        "CMS_ID": 508142,
+        "courses": {
+            "Semester 1": {
+                "Engineering Drawing": {
+                    "Grade": "A",
+                    "Credit_Hours": "0+2"
+                },
+                "Ideology and Constitution of Pakistan": {
+                    "Grade": "A",
+                    "Credit_Hours": "2+0"
+                },
+                "Engineering Statics": {
+                    "Grade": "A",
+                    "Credit_Hours": "2+0"
+                },
+                "Calculus and Analytical Geometry": {
+                    "Grade": "A",
+                    "Credit_Hours": "3+0"
+                },
+                "Occupational Health and Safety": {
+                    "Grade": "A",
+                    "Credit_Hours": "1+0"
+                },
+                "Functional English": {
+                    "Grade": "A",
+                    "Credit_Hours": "3+0"
+                },
+                "Application of ICT": {
+                    "Grade": "A",
+                    "Credit_Hours": "2+1"
+                }
+            },
+            "Semester 2": {
+                "Fundamentals of Programming": {
+                    "Grade": "A",
+                    "Credit_Hours": "2+1"
+                },
+                "Applied Physics": {
+                    "Grade": "A",
+                    "Credit_Hours": "2+1"
+                },
+                "Differential Equations": {
+                    "Grade": "A",
+                    "Credit_Hours": "3+0"
+                },
+                "Islamic Studies": {
+                    "Grade": "A",
+                    "Credit_Hours": "2+0"
+                },
+                "Professional Ethics": {
+                    "Grade": "A",
+                    "Credit_Hours": "2+0"
+                },
+                "Electric Circuit Analysis": {
+                    "Grade": "A",
+                    "Credit_Hours": "3+1"
+                },
+                "Workshop Practice": {
+                    "Grade": "B+",
+                    "Credit_Hours": "0+1"
+                }
+            }
+        }
+    },
+    {
+        "id": "S003",
+        "name": "Suleman Qureshi",
+        "age": 19,
+        "CMS_ID": 531542,
+        "courses": {
+            "Semester 1": {
+                "Engineering Drawing": {
+                    "Grade": "A",
+                    "Credit_Hours": "0+2"
+                },
+                "Ideology and Constitution of Pakistan": {
+                    "Grade": "B+",
+                    "Credit_Hours": "2+0"
+                },
+                "Engineering Statics": {
+                    "Grade": "B",
+                    "Credit_Hours": "2+0"
+                },
+                "Calculus and Analytical Geometry": {
+                    "Grade": "A",
+                    "Credit_Hours": "3+0"
+                },
+                "Occupational Health and Safety": {
+                    "Grade": "A",
+                    "Credit_Hours": "1+0"
+                },
+                "Functional English": {
+                    "Grade": "C+",
+                    "Credit_Hours": "3+0"
+                },
+                "Application of ICT": {
+                    "Grade": "B",
+                    "Credit_Hours": "2+1"
+                }
+            },
+            "Semester 2": {
+                "Fundamentals of Programming": {
+                    "Grade": "D+",
+                    "Credit_Hours": "2+1"
+                },
+                "Applied Physics": {
+                    "Grade": "A",
+                    "Credit_Hours": "2+1"
+                },
+                "Differential Equations": {
+                    "Grade": "A",
+                    "Credit_Hours": "3+0"
+                },
+                "Islamic Studies": {
+                    "Grade": "B",
+                    "Credit_Hours": "2+0"
+                },
+                "Professional Ethics": {
+                    "Grade": "A",
+                    "Credit_Hours": "2+0"
+                },
+                "Electric Circuit Analysis": {
+                    "Grade": "A",
+                    "Credit_Hours": "3+1"
+                },
+                "Workshop Practice": {
+                    "Grade": "B+",
+                    "Credit_Hours": "0+1"
+                }
+            }
+        }
+    },
+    {
+        "id": "S004",
+        "name": "Ali",
+        "CMS_ID": 514253,
+        "age": 20,
+        "courses": {}
+    },
+    {
+        "id": "S005",
+        "name": "Rehan Mehmood",
+        "CMS_ID": 550982,
+        "age": 19,
+        "courses": {}
+    }
+]
